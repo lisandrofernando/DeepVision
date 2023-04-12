@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/DeepVision/static/css/main.bdac753b.css",
-    "main.js": "/DeepVision/static/js/main.53ec255f.js",
+    "main.css": "/DeepVision/static/css/main.70d03c57.css",
+    "main.js": "/DeepVision/static/js/main.e611b02d.js",
     "static/media/backImg.jpg": "/DeepVision/static/media/backImg.dbc1d930b8bb5e76deab.jpg",
     "static/media/FullLogo_Transparent.png": "/DeepVision/static/media/FullLogo_Transparent.c84f011b1bdabdf4b20c.png",
     "index.html": "/DeepVision/index.html",
-    "main.bdac753b.css.map": "/DeepVision/static/css/main.bdac753b.css.map",
-    "main.53ec255f.js.map": "/DeepVision/static/js/main.53ec255f.js.map"
+    "main.70d03c57.css.map": "/DeepVision/static/css/main.70d03c57.css.map",
+    "main.e611b02d.js.map": "/DeepVision/static/js/main.e611b02d.js.map"
   },
   "entrypoints": [
-    "static/css/main.bdac753b.css",
-    "static/js/main.53ec255f.js"
+    "static/css/main.70d03c57.css",
+    "static/js/main.e611b02d.js"
   ]
 }
